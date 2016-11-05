@@ -14,7 +14,7 @@ import android.widget.EditText;
 
 public class DisplayMessageActivity extends AppCompatActivity {
 
-
+//test2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
